@@ -2,8 +2,13 @@
 #Automated Test for Sauce Demo Website
 This project uses Selenium WebDriver with Page Object Model (POM) and TestNG to automate tests for the Sauce Demo website.
 
+<<<<<<< HEAD
 # Documentation Link: 
 https://docs.google.com/document/d/1XRsZ4Pl35vWt-GU6lu8L4k-_pvsj3oih/edit?usp=sharing&ouid=101269482202751623475&rtpof=true&sd=true
+=======
+# Documentation Link:
+  https://docs.google.com/document/d/1XRsZ4Pl35vWt-GU6lu8L4k-_pvsj3oih/edit?usp=sharing&ouid=101269482202751623475&rtpof=true&sd=true
+>>>>>>> da56802 (Added Documnetation)
 
 # Key Components:
 --- Page Object Model (POM):
